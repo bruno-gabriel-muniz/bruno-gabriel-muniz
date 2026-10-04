@@ -6,7 +6,10 @@ Além disso, meu estilo é focar em entender claramente o problema antes de tent
 
 ## Ferramentas que utilizo:
 
-### Possuo experiência prática:
+<table>
+<tr>
+<td valign="top">
+### Experiência prática
 
 - Python;
   - FastAPI;
@@ -22,15 +25,23 @@ Além disso, meu estilo é focar em entender claramente o problema antes de tent
   - Singleton; e
   - etc.
 
+</td>
+<td valign="top">
 ### Noções básicas:
 
 - HTML e CSS;
-- TypeScript;
-- C e C++; e
+- TypeScript; e
+- C e C++.
 
+</td>
+<td valign="top">
 ### Conhecimento conceitual:
 
 - Noções do funcionamento e das melhorias/inovações de linguagens como Go, Rust, Elixir e Julia.
+
+</td>
+</tr>
+</table>
 
 ### Como me contatar?
 
