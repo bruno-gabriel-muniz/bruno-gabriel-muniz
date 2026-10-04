@@ -1,16 +1,38 @@
-## Hi there 👋
+## Prazer, Bruno Gabriel!
 
-<!--
-**bruno-gabriel-muniz/bruno-gabriel-muniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Computação na UnB, no 6º semestre, e atualmente estou focado em BackEnd, mas possuo interesse em análise de dados e IA, principalmente na parte matemática e abstrata.
 
-Here are some ideas to get you started:
+Além disso, meu estilo é focar em entender claramente o problema antes de tentar resolvê-lo e, depois disso, focar na solução mais simples e eficiente possível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas que utilizo:
+
+### Possuo experiência prática:
+
+- Python;
+  - FastAPI;
+  - SQLAlchemy;
+  - Poetry / uv (noções básicas de uv);
+  - Pytest; e
+  - Outras ferramentas de qualidade de software.
+- Docker e Docker Compose;
+- Git, GitHub, GitHub Actions e Continuous Integration (CI);
+- Conceitos de arquitetura de software, como camadas e interfaces (na prática), além de testes unitários e de integração; e
+- Design Patterns:
+  - Strategy;
+  - Singleton; e
+  - etc.
+
+### Noções básicas:
+
+- HTML e CSS;
+- TypeScript;
+- C e C++; e
+
+### Conhecimento conceitual:
+
+- Noções do funcionamento e das melhorias/inovações de linguagens como Go, Rust, Elixir e Julia.
+
+### Como me contatar?
+
+LinkedIn: [bruno-gabriel-ed](https://www.linkedin.com/in/bruno-gabriel-ed/)  
+Email: brunomunizlourenco@gmail.com
