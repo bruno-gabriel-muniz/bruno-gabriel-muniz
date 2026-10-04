@@ -9,6 +9,7 @@ Além disso, meu estilo é focar em entender claramente o problema antes de tent
 <table>
 <tr>
 <td valign="top">
+
 - Python;
   - FastAPI;
   - SQLAlchemy;
